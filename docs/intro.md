@@ -2,46 +2,78 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Ласкаво просимо до Sadok Wiki
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Це база знань Sadok — короткі та практичні інструкції для щоденної роботи із системою.
 
-## Getting Started
+## Що ви знайдете тут
 
-Get started by **creating a new site**.
+У wiki зібрані покрокові матеріали для:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **адміністратора закладу**
+- **вихователя групи**
+- **викладача гуртка / студії**
+- **батьків**
 
-### What you'll need
+Тут ви знайдете відповіді на типові питання, логіку налаштування системи та інструкції для основних процесів.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## З чого почати
 
-## Generate a new site
+Оберіть роль, у якій ви працюєте із Sadok:
 
-Generate a new Docusaurus site using the **classic template**.
+- [Адміністратору закладу](./admin/home)
+- [Вихователю групи](./teacher/teacher-tutorial)
+- [Викладачу гуртка](./trainer/trainer)
+- [Батькам](./parent/parent-tutorial)
 
-The classic template will automatically be added to your project after you run the command:
+## Для чого потрібен Sadok
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Sadok допомагає закладу працювати в єдиному цифровому просторі:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- вести базу дітей, батьків і працівників
+- налаштовувати групи, розклад і документи
+- працювати з чатами та новинами
+- публікувати події та опитування
+- вести фінанси, рахунки й реквізити
+- контролювати відвідуваність
+- працювати з фото, відео та галереями
+- керувати гуртками та додатковими послугами
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Як користуватися цією базою знань
 
-## Start your site
+У кожному розділі є:
 
-Run the development server:
+- покрокові інструкції
+- приклади екранів
+- пояснення важливих налаштувань
+- підказки щодо типових помилок
 
-```bash
-cd my-website
-npm run start
-```
+Рекомендуємо рухатися по інструкціях послідовно, особливо під час першого налаштування закладу.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Швидкий старт для адміністратора
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Якщо ви тільки починаєте роботу в системі, зазвичай порядок такий:
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. Заповнити профіль закладу
+2. Додати працівників
+3. Додати батьків і дітей
+4. Створити групи
+5. Налаштувати розклад
+6. Додати реквізити та послуги
+7. Перевірити баланси та виставити рахунки
+8. Налаштувати інформування батьків
+
+## Потрібна допомога?
+
+Якщо ви не знайшли потрібну відповідь у wiki, команда Sadok на зв’язку:
+
+- 📞 **+38 093 969 00 70**
+- 📩 [hello@sadok.app](mailto:hello@sadok.app)
+- 💬 [Чат з менеджером](https://t.me/sadokapp)
+- 🤖 [Sadok_info_bot](https://t.me/Sadok_info_bot)
+
+## Побажання та ідеї
+
+Ми постійно розвиваємо Sadok і будемо вдячні за ваші пропозиції:
+
+[Скарбничка побажань та ідей](https://forms.gle/MzizKM3HqmCcetjH7)
