@@ -8,6 +8,17 @@ sidebar_position: 1
 **5 хв на знайомство** з мобільним помічником батьків: [Переглянути ВІДЕО](https://youtu.be/dDgHD59Ygx4)
 :::
 
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden'}}>
+  <iframe
+    src="https://www.youtube.com/embed/dDgHD59Ygx4"
+    title="YouTube video"
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen
+  />
+</div>
+
 ## Вхід в систему
 
 - Завантажуємо застосунок, обираємо свій варіант операційної системи за посиланнями:
