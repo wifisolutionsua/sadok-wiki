@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Sadok',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Sadok app logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -93,7 +93,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           //{
