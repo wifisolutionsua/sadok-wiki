@@ -88,20 +88,20 @@ const config = {
           alt: 'Sadok app logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Wiki',
-          },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-          //{
-          //  href: 'https://github.com/facebook/docusaurus',
-          //  label: 'GitHub',
-          //  position: 'right',
-          //},
-        ],
+        // items: [
+        //   {
+        //     type: 'docSidebar',
+        //     sidebarId: 'tutorialSidebar',
+        //     position: 'left',
+        //     label: 'Wiki',
+        //   },
+        //   //{to: '/blog', label: 'Blog', position: 'left'},
+        //   //{
+        //   //  href: 'https://github.com/facebook/docusaurus',
+        //   //  label: 'GitHub',
+        //   //  position: 'right',
+        //   //},
+        // ],
       },
       // footer: {
       //   style: 'dark',
