@@ -103,10 +103,10 @@ const config = {
         //   //},
         // ],
       },
-      // footer: {
-      //   style: 'dark',
-      //   links: [
-      //     {
+      footer: {
+        style: 'dark',
+        // links: [
+          // {
       //       title: 'Docs',
       //       items: [
       //         {
@@ -146,8 +146,8 @@ const config = {
       //     //   ],
       //     // },
       //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} Sadok, Inc. Built with Docusaurus.`,
-      // },
+        copyright: `Copyright © ${new Date().getFullYear()} Sadok, Inc. Built with Docusaurus.`,
+      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
