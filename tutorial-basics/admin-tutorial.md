@@ -469,7 +469,6 @@ sidebar_position: 7
 - 📞 **+38 093 969 00 70**
 - 📩 [hello@sadok.app](mailto:hello@sadok.app)
 - 💬 [Чат з менеджером](https://t.me/sadokapp)
-- 🤖 [Sadok_info_bot](https://t.me/Sadok_info_bot)
 
 ### Ідеї та побажання
 
